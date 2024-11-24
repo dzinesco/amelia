@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amelia-ai.netlify.app/sitemap.xml
